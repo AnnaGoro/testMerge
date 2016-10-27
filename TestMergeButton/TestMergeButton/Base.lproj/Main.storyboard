@@ -22,7 +22,7 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dUb-yy-lMQ">
                                 <frame key="frameInset" minX="31" minY="318" width="312" height="30"/>
-                                <color key="backgroundColor" red="0.21901121679999999" green="1" blue="0.4060900569" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.96219474077224731" green="0.93587291240692139" blue="0.86242938041687012" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="This is a test project for studying merge branches" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0So-qX-vyN">
